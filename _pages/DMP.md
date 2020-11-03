@@ -236,7 +236,7 @@ This section is aimed at providing guidelines for how to build and format data t
 
 When organizing your analyses for a research project, it's important to maximize two aspects: reproducibility and ease of sharing. This will make the life of your collaborators, and crucially the life of "future you", much easier. R packages provide a great tool to create collaborative and reproducible code. An R package bundles together the data your project requires, custom-made functions that can be used throughout your code, vignettes that describe your analyses step-by-step, and a thorough documentation that helps you and others to reproduce your analyses in the future. In practice, creating an R package boils down to 1) organizing your project folders and files in a clever and consistent way, and 2) documenting thoroughly your steps and the tools you use.
 
-Guidelines for creating a project package can be found [HERE](workflow.rmd)
+Guidelines for creating a project package can be found [HERE](https://nbelouard.github.io/iecolab/workflow/)
 
 <br>
 
