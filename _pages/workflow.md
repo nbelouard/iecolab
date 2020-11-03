@@ -3,7 +3,7 @@ title: "Project Setup using R packages"
 permalink: /workflow/
 toc: TRUE
 header:
-  image: '/images/lanterfly.png'
+  image: "/images/lanterfly.png"
 ---
 
 When organizing a research project, it's important to maximize two aspects: reproducibility and ease of sharing. This will make the life of your collaborators, and crucially the life of "future you", much easier. Here we present a quick guide for iEcoLab members to build their research project using version controlled R packages stored in a GitHub repository. This guide assumes the user has some proficiency with R and RStudio.
