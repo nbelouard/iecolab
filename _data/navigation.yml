@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "DMP"
+  - title: "Data Management"
     url: /DMP/
-  - title: "Workflow"
+  - title: "Project Setup"
     url: /workflow/
   # - title: "Sample Posts"
   #   url: /year-archive/
