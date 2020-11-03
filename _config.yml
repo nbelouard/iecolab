@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "iEcoLab"
-  avatar           : "/images/iecolab_logo_v2_1_banner_v1_0.png"
+  avatar           : "/images/logo.png"
   bio              : "Integrative Ecology Lab at Temple University"
   location         : "Philadelphia, PA"
   email            :
