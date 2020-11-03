@@ -4,10 +4,7 @@ date: "Last Updated: November 11, 2020"
 permalink: /DMP/
 header: 
    image: "/images/iecolab_logo_v2_1_banner_v1_0.png"
-output:
-  html_document:
-    toc: TRUE
-    toc_depth: 2
+toc: TRUE
 ---
 
 This is a quick guide for the iEco Lab Data Management Plan. For the full Data Management plan visit the lab's [website](https://www.iecolab.org/) (full data management plant under construction)
