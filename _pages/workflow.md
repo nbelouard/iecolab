@@ -1,6 +1,7 @@
 ---
 title: "Project Management with R packages"
 permalink: /workflow/
+toc: TRUE
 header:
   image: '/images/iecolab_logo_v2_1_banner_v1_0.png'
 ---
@@ -9,8 +10,9 @@ When organizing a research project, it's important to maximize two aspects: repr
 
 ## R packages
 
-R packages provide a great tool to create collaborative and reproducible analyses. An R package can be viewed as a form of research compendium (Marwick et al. 2018, The American Statistician
-). This bundles together the data your project requires, custom-made functions that can be used throughout your code, vignettes that describe your analyses step-by-step, and a thorough documentation of the tools used that helps you and others to reproduce your analyses in the future. In practice, creating an R package boils down to 1) organizing your project folders and files in a clever and consistent way, and 2) documenting thoroughly your steps and the tools you use. For more detailed information on R packages, please consult the excellent [book](https://r-pkgs.org/) by Hadley Wickham and Jennifer Bryan.
+R packages provide a great tool to create collaborative and reproducible analyses. An R package can be viewed as a form of research compendium (Marwick et al. 2018, The American Statistician). This bundles together the data your project requires, custom-made functions that can be used throughout your code, vignettes that describe your analyses step-by-step, and a thorough documentation of the tools used that helps you and others to reproduce your analyses in the future. In practice, creating an R package boils down to 1) organizing your project folders and files in a clever and consistent way, and 2) documenting thoroughly your steps and the tools you use. For more detailed information on R packages, please consult the excellent [book](https://r-pkgs.org/) by Hadley Wickham and Jennifer Bryan.
+
+![Example of research compendium from Marwick et al. 2018](/images/compendium.png)
 
 The basic structure of an R package is simple. Above is an example of a mock package named "packsample". Here we will take a quick look at the components of this package (and of any package), some of which will be explained more in depth later on.
 
