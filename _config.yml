@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Integrative Ecology Lab website"
 title_separator          : "-"
-subtitle                 : 
+subtitle                 :
 name                     : "iEcoLab"
-description              : "Data management and workflow in iEcoLab" 
+description              : "Data management and workflow in iEcoLab"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "iEcoLab"
-  avatar           : "images/logo.png"
+  avatar           : "/images/iecolab_logo_v2_1_banner_v1_0.png"
   bio              : "Integrative Ecology Lab at Temple University"
   location         : "Philadelphia, PA"
   email            :
@@ -287,5 +287,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-
