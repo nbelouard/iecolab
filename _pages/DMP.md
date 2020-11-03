@@ -3,7 +3,7 @@ title: "iEco Lab DMP Quick Guide"
 date: "Last Updated: November 11, 2020"
 permalink: /DMP/
 header: 
-   image: "https://github.com/nbelouard/iecolab/blob/main/images/SLF-Adult%20(2).jpg"
+   image: "/images/SLF-Adult_2.jpg"
 toc: TRUE
 ---
 
