@@ -3,7 +3,7 @@ title: "iEco Lab DMP Quick Guide"
 date: "Last Updated: November 11, 2020"
 permalink: /DMP/
 header: 
-   image: "/images/iecolab_logo_v2_1_banner_v1_0.png"
+   image: "/images/lanterfly.png"
 toc: TRUE
 ---
 
